@@ -53,6 +53,7 @@ The solution combines Python-based data cleaning, SQL analysis, exploratory data
 - Lower salary bands experience higher attrition.
 
 ## Power BI Dashboard
+![Employee Retention & Workforce Analytics Dashboard](screenshots/Screenshot%202026-11-23%20155525.png)
 
 The interactive dashboard includes KPI cards, slicers, and visualizations covering:
 
