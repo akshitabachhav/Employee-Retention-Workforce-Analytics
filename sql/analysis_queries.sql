@@ -4,17 +4,7 @@
 -- TABLE: employee_data
 -- SQL DIALECT: MySQL
 -- PURPOSE: Explore employee attrition, workforce trends and
---          factors associated with employee turnover.
---
--- IMPORTANT:
--- 1. Run this script against the cleaned employee_data table.
--- 2. Queries 1-34 and 41-50 reflect the analyses documented
---    during the project workflow.
--- 3. Queries 35-40 are additional compatible analyses included
---    to complete and organize the portfolio script. Run them
---    separately if they were not already executed.
--- 4. Group-level patterns show associations, not causation.
--- ============================================================
+          factors associated with employee turnover.
 
 USE retention_analytics;
 
